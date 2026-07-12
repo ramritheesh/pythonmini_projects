@@ -1,0 +1,14 @@
+.venv/
+venv/
+venv312/
+
+__pycache__/
+
+*.pyc
+*.pyo
+
+.DS_Store
+
+.vscode/
+
+book.csv
